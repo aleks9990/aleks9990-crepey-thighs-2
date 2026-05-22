@@ -1,4 +1,4 @@
-# crepey-thighs
+# aleks9990-crepey-thighs-2
 
 Static sales page for the crepey thighs campaign.
 
